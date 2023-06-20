@@ -1,0 +1,6 @@
+username: stevetech675
+password: 9ANRi808iTXJFbhk
+
+mongodb+srv://stevetech675:<4q4bEBUuN7TzP2vv>@backendportfolio.tmujlul.mongodb.net/
+
+mongodb+srv://stevetech675:<9ANRi808iTXJFbhk>@cluster0.cnoemgc.mongodb.net/?retryWrites=true&w=majority
